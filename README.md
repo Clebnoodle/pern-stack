@@ -51,7 +51,7 @@ systemctl enable postgresql
 ```
 
 
-To start up the Express web server on system startup, we will create a script and service:
+To start up the Express web server on system startup, we will create a script and service.
 
 Make a script called webstart.sh with the following contents:
 ```
