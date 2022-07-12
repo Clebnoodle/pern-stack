@@ -47,7 +47,7 @@ npm install express
 To start up PostgreSQL on system startup, do the following:
 
 ```
-systemctl enable postgresql
+sudo systemctl enable postgresql
 ```
 
 
@@ -76,6 +76,6 @@ WantedBy=multi-user.target
 
 Now reload your systemctl daemon and enable the service you created:
 ```
-systemctl daemon-reload
-systemctl enable express
+sudo systemctl daemon-reload
+sudo systemctl enable express
 ```
