@@ -81,3 +81,4 @@ sudo systemctl enable express
 ```
 
 ![gif](pernGif.gif)
+<img src="pernGif.gif" width="250" height="250"/>
