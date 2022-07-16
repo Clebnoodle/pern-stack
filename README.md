@@ -80,4 +80,5 @@ sudo systemctl daemon-reload
 sudo systemctl enable express
 ```
 
-![vid]([pernGif.gif](https://youtu.be/NYUG038AeOE))
+![vid](https://youtu.be/NYUG038AeOE))
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYUG038AeOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
