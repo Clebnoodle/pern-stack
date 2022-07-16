@@ -80,5 +80,4 @@ sudo systemctl daemon-reload
 sudo systemctl enable express
 ```
 
-![gif](pernGif.gif)
-<img src="pernGif.gif" width="250" height="250"/>
+![vid]([pernGif.gif](https://youtu.be/NYUG038AeOE))
